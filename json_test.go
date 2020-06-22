@@ -1,4 +1,4 @@
-package mirror
+package zoekt
 
 import (
 	"encoding/json"
